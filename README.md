@@ -7,7 +7,7 @@ Usage:
 2. Install this furigana generator https://github.com/michaelvobrien/furigana
 3. Set up the server
 
-I'm giving th lighttpad configuraton that works on port 3647
+I'm giving the lighttpad configuraton that works on port 3647
 
 To use the config file, install lighttpd, then change the location of the folder in lighttpd.conf. Then type "lighttpd -f lighttpd.conf"
 
